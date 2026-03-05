@@ -4,65 +4,7 @@ If you find this project helpful, please don't forget to give it a ⭐ Star to s
 
 
 ## Quickstart
-### Folder structure
-```
-.
-|-- README.md
-|-- configs
-|   |-- GECCO
-|   |-- MSL
-|   |-- PSM
-|   |-- SMAP
-|   |-- SMD
-|   |-- SWAN
-|   |-- SWAT
-|   |-- TSB-AD-U
-|   `-- UCR
-|-- data_provider
-|   |-- __init__.py
-|   |-- data_provider.py
-|   `-- data_provider_UCR.py
-|-- dataset
-|   |-- DETECT_META.csv
-|   |-- TSB-AD
-|   |-- UCR_Anomaly_FullData
-|   `-- data
-|-- exp
-|   |-- exp_TSBAD.py
-|   `-- exp_anomaly_detection.py
-|-- figs
-|   |-- affiliation.png
-|   |-- main.png
-|   `-- vus.png
-|-- models
-|   `-- CrossAD
-|-- requirements.txt
-|-- run.py
-|-- run_TSBAD.py
-|-- run_UCR.py
-|-- scripts
-|   |-- test
-|   `-- train
-|-- test_results
-|   |-- GECCO
-|   |-- MSL
-|   |-- PSM
-|   |-- SMAP
-|   |-- SMD
-|   |-- SWAN
-|   |-- SWAT
-|   |-- TSB-AD-U
-|   `-- UCR
-`-- ts_ad_evaluation
-    |-- __init__.py
-    |-- accomplish_UCR
-    |-- affiliation
-    |-- auc_vus
-    |-- evaluator.py
-    |-- f1
-    |-- pate
-    `-- spot.py
-```
+
 ### Installation
 ```
 pip install -r requirements.txt
