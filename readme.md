@@ -1,12 +1,7 @@
-This code is the official PyTorch implementation of our NeurIPS'25 Paper: [CrossAD: Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling](https://arxiv.org/abs/2510.12489).
+This code is the official PyTorch implementation of our Paper: Frequency Guided Neural ODE: A Framework for Multivariate Time Series Forecasting.
 
 If you find this project helpful, please don't forget to give it a ⭐ Star to show your support. Thank you!
 
-## Introduction
-We propose CrossAD, a novel framework for time series **A**nomaly **D**etection that takes **Cross**-scale associations and **Cross**-window modeling into account. We propose a cross-scale reconstruction that reconstructs fine-grained series from coarser series, explicitly capturing cross-scale associations. Furthermore, we design a query library and incorporate global multi-scale context to overcome the limitations imposed by fixed window sizes.
-Extensive experiments conducted on seven real-world datasets using nine evaluation metrics validate the effectiveness of CrossAD, demonstrating state-of-the-art performance in anomaly detection.
-
-![Main](figs/main.png)
 
 ## Quickstart
 ### Folder structure
