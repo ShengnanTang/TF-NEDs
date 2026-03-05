@@ -15,7 +15,7 @@ Then place the downloaded data under the folder ```./data/```.
 ```
 data
 |   |-- PEMSD4
-|   `-- PEMSD4.npz
+|   |   |-- PEMSD4.npz
 ```
 ### Train and evaluate model
 1. The model structure of **CrossAD** under the folder ```./models/CrossAD/```
