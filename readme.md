@@ -10,7 +10,7 @@ If you find this project helpful, please don't forget to give it a ⭐ Star to s
 pip install -r requirements.txt
 ```
 ### Data preparation
-Prepare Data. You can obtained the well pre-processed datasets at https://drive.google.com/file/d/1IYBfRTnhyrrpGofJNUzUDs6nc_I41SK-/view?usp=drive_link. 
+Prepare Data. You can obtained the well pre-processed datasets at https://drive.google.com/drive/folders/1g5v2Gq1tkOq8XO0HDCZ9nOTtRpB6-gPe?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto. 
 Then place the downloaded data under the folder ```./data/```.
 ```
 dataset
