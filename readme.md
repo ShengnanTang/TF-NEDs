@@ -10,8 +10,8 @@ If you find this project helpful, please don't forget to give it a ⭐ Star to s
 pip install -r requirements.txt
 ```
 ### Data preparation
-Prepare Data. You can obtained the well pre-processed datasets at https://drive.google.com/file/d/1YU_d9kIaP2EubyUhGWOwSKAhJxNntB8W/view?usp=sharing. 
-Then place the downloaded data under the folder ```./dataset/```.
+Prepare Data. You can obtained the well pre-processed datasets at https://drive.google.com/file/d/1IYBfRTnhyrrpGofJNUzUDs6nc_I41SK-/view?usp=drive_link. 
+Then place the downloaded data under the folder ```./data/```.
 ```
 dataset
 |   |-- DETECT_META.csv
