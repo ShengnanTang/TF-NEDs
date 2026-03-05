@@ -13,11 +13,9 @@ pip install -r requirements.txt
 Prepare Data. You can obtained the well pre-processed datasets at https://drive.google.com/drive/folders/1g5v2Gq1tkOq8XO0HDCZ9nOTtRpB6-gPe?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto. 
 Then place the downloaded data under the folder ```./data/```.
 ```
-dataset
-|   |-- DETECT_META.csv
-|   |-- TSB-AD
-|   |-- UCR_Anomaly_FullData
-|   `-- data
+data
+|   |-- PEMSD4
+|   `-- PEMSD4.npz
 ```
 ### Train and evaluate model
 1. The model structure of **CrossAD** under the folder ```./models/CrossAD/```
